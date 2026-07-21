@@ -1,1 +1,4 @@
 title: ./ensim
+theme: minima
+minima:
+  skin: dark
