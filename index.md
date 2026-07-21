@@ -1,3 +1,15 @@
+---
+layout: page
+title: My Page
+---
+
+<style>
+.site-header,
+.site-footer {
+  display: none;
+}
+</style>
+
 # Test
 
 Ensim is an independent open-source research project
