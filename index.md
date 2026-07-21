@@ -3,7 +3,8 @@ layout: default
 layout: home
 ---
 
-Ensim is an engineering simulations lab based in Vancouver, BC,
-specializing in open source internal combustion engine audio digital signal processing.
+Ensim is an independent, open-source engineering simulations lab based in
+Vancouver, BC, developing high-fidelity digital signal processing technology
+for internal combustion engine audio.
 
-# TEST
+![](pfp.jpg)
