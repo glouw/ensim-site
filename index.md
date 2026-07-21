@@ -26,3 +26,5 @@ focused on physically simulating internal combustion engine audio.
  M = _  /  ----- * [ (----) - 1 ]
       \/   y - 1       Ps
 ```
+
+Equation? $E = mc^2$
