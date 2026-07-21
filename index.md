@@ -2,12 +2,10 @@
 layout: default
 ---
 
-Ensim is an independent, open-source engineering simulations lab based in
-Vancouver, BC, developing high-fidelity digital signal processing technology
-for internal combustion engine audio.
+Ensim is ... under construction
 
-$$
-E = \sqrt(mc^4)
-$$
+## TITLE
+
+$E = mc^2$
 
 ![](pfp.jpg)
