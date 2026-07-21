@@ -10,8 +10,6 @@ title: ensim
 }
 </style>
 
-## Test
-
 Ensim is an independent open-source research project
 focused on physically simulating internal combustion engine audio.
 
