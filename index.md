@@ -1,6 +1,5 @@
 ---
 layout: default
-layout: home
 ---
 
 Ensim is an independent, open-source engineering simulations lab based in
