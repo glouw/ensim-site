@@ -1,6 +1,6 @@
 ---
 layout: page
-title: My Page
+title: ensim
 ---
 
 <style>
@@ -10,7 +10,7 @@ title: My Page
 }
 </style>
 
-# Test
+## Test
 
 Ensim is an independent open-source research project
 focused on physically simulating internal combustion engine audio.
@@ -26,10 +26,3 @@ focused on physically simulating internal combustion engine audio.
  M = _  /  ----- * [ (----) - 1 ]
       \/   y - 1       Ps
 ```
-
-
-test
-
-test
-
-test
