@@ -1,12 +1,9 @@
----
-layout: home
-title: "ensim"
----
+# Hello
 
-Ensim is ... under construction
-
-## TITLE
+Math:
 
 $E = mc^2$
 
-![](pfp.jpg)
+$$
+\frac{1}{2} + \frac{1}{2} = 1
+$$
