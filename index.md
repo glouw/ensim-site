@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ensim
+title: ensim audio
 ---
 
 <style>
@@ -10,23 +10,20 @@ title: ensim
 }
 </style>
 
-Ensim is an independent open-source research project
-focused on physically simulating internal combustion engine audio.
+As an independent research and development team based in Vancouver, BC,
+our mission is to model realistic, real-time internal combustion
+engine audio for use in game development.
+
+Our latest Ensim5 alpha uses proprietary, cache-friendly,
+single-threaded SIMD numerical solvers to compute isentropic
+mass flow rates, combustion chamber dynamics, piston kinematics,
+and computational fluid dynamics, all in real time.
 
 <iframe
-  src="https://www.youtube.com/embed/za0bQ6HqPRg"
+  src="https://www.youtube.com/embed/za0bQ6HqPRg?rel=0&modestbranding=1&controls=0"
   style="width: 100%; aspect-ratio: 16 / 9; border: 0;"
   allow="autoplay; encrypted-media"
   allowfullscreen>
 </iframe>
 
-```
-              ____________________
-             /
-            /            y - 1
-           /             -----
-          /                y
-         /   2         Pt
- M = _  /  ----- * [ (----) - 1 ]
-      \/   y - 1       Ps
-```
+At the core of every real time signal lies the spirit of mechanical engineering.
