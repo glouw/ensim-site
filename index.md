@@ -19,6 +19,6 @@ single-threaded SIMD numerical solvers to compute isentropic
 mass flow rates, combustion chamber dynamics, piston kinematics,
 and computational fluid dynamics, all in real time.
 
-<video controls>
+<video controls style="width: 100%; height: auto;">
     <source src="video.mp4" type="video/mp4">
 </video>
