@@ -1,7 +1,11 @@
 ---
 layout: page
-title: ensim audio
+title: ensim
 ---
+
+<script>
+    document.title = "ensim";
+</script>
 
 <style>
 .site-header,
