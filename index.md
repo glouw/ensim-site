@@ -20,10 +20,14 @@ mass flow rates, combustion chamber dynamics, piston kinematics,
 and computational fluid dynamics, all in real time.
 
 <iframe
-  src="https://www.youtube.com/embed/za0bQ6HqPRg?rel=0&controls=0"
-  style="width: 100%; aspect-ratio: 16 / 9; border: 0;"
-  allow="encrypted-media"
-  allowfullscreen>
+    width="560"
+    height="315"
+    src="https://www.youtube.com/embed/za0bQ6HqPRg?si=bIxb6kyd5xgQOL1c&controls=0&modestbranding=0&rel=0&playsinline=1&enablejsapi=1&playlist=za0bQ6HqPRg"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
 </iframe>
 
 At the core of every real time signal lies the spirit of mechanical engineering.
