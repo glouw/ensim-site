@@ -6,7 +6,7 @@ title: ensim audio
 <style>
 .site-header,
 .site-footer {
-  display: none;
+    display: none;
 }
 </style>
 
@@ -19,4 +19,6 @@ single-threaded SIMD numerical solvers to compute isentropic
 mass flow rates, combustion chamber dynamics, piston kinematics,
 and computational fluid dynamics, all in real time.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/za0bQ6HqPRg?si=0wZ_X0ZTGOHvm4xf&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
+<video controls>
+    <source src="video.mp4" type="video/mp4">
+</video>
