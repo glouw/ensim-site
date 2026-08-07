@@ -20,9 +20,9 @@ mass flow rates, combustion chamber dynamics, piston kinematics,
 and computational fluid dynamics, all in real time.
 
 <iframe
-  src="https://www.youtube.com/embed/za0bQ6HqPRg?rel=0&modestbranding=1&controls=0"
+  src="https://www.youtube.com/embed/za0bQ6HqPRg?rel=0&controls=0"
   style="width: 100%; aspect-ratio: 16 / 9; border: 0;"
-  allow="autoplay; encrypted-media"
+  allow="encrypted-media"
   allowfullscreen>
 </iframe>
 
