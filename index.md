@@ -44,7 +44,7 @@ This gas model produces extremely high combustion temperatures, reaching well in
 hypothetical 7000 K range to generate intense, harmonically rich pulse trains guided by
 quintic cam-profile polynomials.
 
-<p align="center"><img src="pulse2.png" style="margin-top: 30px;"></p>
+<p align="center"><img src="pulse2.png" style="margin-top: 30px; margin-bottom: 30px;"></p>
 
 `ENSIM` on a 2019 business grade laptop `Intel(R) Core(TM) i7-8665U CPU @ 1.90GHz`
 can execute 48000 audio samples of a 36-chamber 4-piston engine and one dimensional CFD pipe
