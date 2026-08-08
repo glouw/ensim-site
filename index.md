@@ -12,6 +12,10 @@ body {
     background-color: #101010;
     color: #FFFFFF;
 }
+.post-title,
+.post-header {
+    color: #FFFFFF;
+}
 .site-header,
 .site-footer {
     display: none;
