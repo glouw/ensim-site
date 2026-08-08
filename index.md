@@ -30,4 +30,4 @@ numerical solvers to compute - in real-time with a 240 Hz controller input rate 
 isentropic mass flow rates, combustion chamber thermodynamics, piston kinematics,
 and computational fluid dynamics.
 
-![](pvtv.png)
+![](pvtv2.png)
