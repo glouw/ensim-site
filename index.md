@@ -32,7 +32,8 @@ and computational fluid dynamics.
 
 ![](pvtv2.png)
 
-`ENSIM5` approximates the standard C8H18 14.7:1 Air-Fuel combustion process with a hypothetical
-gas of molar mass of density 0.0023kg / mol and a heat capacity ratio of 1.5. This combusts
-_hot_, well into a hypothetical 7000K temperature region, to create the ultimate high harmonic
-pulse train that powers a one dimensional computational fluid dynamics pipe for audio generation.
+ENSIM5 approximates the standard C₈H₁₈ 14.7:1 air-fuel combustion process using a hypothetical
+gas with a molar mass of 0.0023 kg/mol and a heat-capacity ratio of 1.5. The model produces
+extremely high combustion temperatures, reaching well into the hypothetical 7000 K range,
+generating an intense, harmonically rich pulse train. This pulse train drives a one-dimensional
+computational fluid-dynamics model of a pipe, ultimately producing the acoustic output.
