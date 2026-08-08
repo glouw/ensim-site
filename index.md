@@ -18,7 +18,7 @@ We are an independent research and development team based in Vancouver, BC,
 on a mission to model realistic, real-time, internal combustion
 engine audio for use in the games industry.
 
-<video controls style="width: 100%; height: auto; margin-bottom: 20px;">
+<video controls style="width: 100%; height: auto; margin-bottom: 10px;">
     <source src="video.mp4" type="video/mp4">
 </video>
 
