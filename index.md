@@ -62,6 +62,8 @@ all while accepting controller inputs at 240 Hz:
 
 <br>
 
+Our future roadmap includes UE5 integration.
+
 As always,
 
 <p align="center"><img src="us2.png" style="margin-top: 20px; margin-bottom: 20px;"></p>
