@@ -33,7 +33,7 @@ and computational fluid dynamics.
 
 <p align="center"><img src="pvtv2.png"></p>
 
-ENSIM5 approximates the standard C₈H₁₈ 14.7:1 air-fuel combustion process using a hypothetical
+`ENSIM5` approximates the standard C₈H₁₈ 14.7:1 air-fuel combustion process using a hypothetical
 gas with a molar mass of 0.0023 kg/mol and a heat-capacity ratio of 1.5. This gas model produces
 extremely high combustion temperatures, reaching well into the hypothetical 7000 K range and
 generating an intense, harmonically rich pulse train guided by quintic cam-profile polynomials
