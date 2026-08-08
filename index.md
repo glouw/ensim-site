@@ -9,7 +9,7 @@ title: ENSIM
 
 <style>
 body {
-    background-color: #000000;
+    background-color: #101010;
     color: #ffffff;
 }
 .site-header,
