@@ -34,11 +34,21 @@ engine audio for use in the games industry.
 
 Our latest `ENSIM` alpha uses custom built proprietary, cache-friendly, single-threaded
 numerical SIMD solvers to compute isentropic mass flow rates, combustion chamber thermodynamics,
-piston kinematics, and computational fluid dynamics, in real time. `ENSIM` on a 2019
-business grade laptop `Intel(R) Core(TM) i7-8665U CPU @ 1.90GHz` can execute 48000 audio samples
-in 0.2 seconds entirely from a single core's L1 cache:
+piston kinematics, and computational fluid dynamics, in real time. `ENSIM` approximates the standard
+C₈H₁₈ 14.7:1 air-fuel combustion process using a hypothetical gas with a molar mass of 0.0023 kg/mol
+and a heat-capacity ratio of 1.5.
 
-<br>
+<p align="center"><img src="pvtv2.png"></p>
+
+This gas model produces extremely high combustion temperatures, reaching well into the
+hypothetical 7000 K range to generate intense, harmonically rich pulse trains guided by
+quintic cam-profile polynomials.
+
+<p align="center"><img src="pulse2.png" style="margin-top: 30px;"></p>
+
+`ENSIM` on a 2019 business grade laptop `Intel(R) Core(TM) i7-8665U CPU @ 1.90GHz`
+can execute 48000 audio samples of a 36-chamber 4-piston engine and one dimensional CFD pipe
+in 0.2 seconds entirely from a single core L1 cache without core or thread migrations:
 
 ```
             0  context-switches:u       #  0.0    cs_per_second
@@ -48,16 +58,3 @@ in 0.2 seconds entirely from a single core's L1 cache:
 1,627,262,496  instructions:u           #  2.2    insn_per_cycle
   362,993,860  dTLB-loads:u             #  0.0 %  dtlb_miss_rate
 ```
-
-<br>
-
-`ENSIM` approximates the standard C₈H₁₈ 14.7:1 air-fuel combustion process using a hypothetical
-gas with a molar mass of 0.0023 kg/mol and a heat-capacity ratio of 1.5.
-
-<p align="center"><img src="pvtv2.png"></p>
-
-This gas model produces extremely high combustion temperatures, reaching well into the
-hypothetical 7000 K range to generate intense, harmonically rich pulse trains guided by
-quintic cam-profile polynomials.
-
-<p align="center"><img src="pulse2.png" style="margin-top: 30px;"></p>
