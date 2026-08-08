@@ -48,7 +48,7 @@ quintic cam-profile polynomials.
 
 `ENSIM` on a 2019 business grade laptop `Intel(R) Core(TM) i7-8665U CPU @ 1.90GHz`
 can execute 48000 audio samples of a 36-chamber 4-piston engine and one dimensional CFD pipe
-in 0.2 seconds entirely from a single core L1 cache without core or thread migrations:
+in 0.2 seconds, entirely from a single core's L1 cache, without CPU or thread migrations:
 
 ```
             0  context-switches:u       #  0.0    cs_per_second
