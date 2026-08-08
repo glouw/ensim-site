@@ -59,3 +59,7 @@ all while accepting controller inputs at 240 Hz:
 1,627,262,496  instructions:u           #  2.2    insn_per_cycle
   362,993,860  dTLB-loads:u             #  0.0 %  dtlb_miss_rate
 ```
+
+As always,
+
+<p align="center"><img src="us.png" style="margin-top: 20px; margin-bottom: 20px;"></p>
