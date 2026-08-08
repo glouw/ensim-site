@@ -39,4 +39,4 @@ extremely high combustion temperatures, reaching well into the hypothetical 7000
 generating an intense, harmonically rich pulse train guided by quintic cam-profile polynomials
 that feeds a one-dimensional computational fluid-dynamics pipe.
 
-<p align="center"><img src="pulse2.png" style="margin-top: 40px;"></p>
+<p align="center"><img src="pulse2.png" style="margin-top: 30px;"></p>
