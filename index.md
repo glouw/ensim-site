@@ -8,6 +8,10 @@ title: ENSIM
 </script>
 
 <style>
+body {
+    background-color: #000000;
+    color: #ffffff;
+}
 .site-header,
 .site-footer {
     display: none;
