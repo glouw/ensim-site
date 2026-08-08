@@ -60,6 +60,8 @@ all while accepting controller inputs at 240 Hz:
   362,993,860  dTLB-loads:u             #  0.0 %  dtlb_miss_rate
 ```
 
+<br>
+
 As always,
 
-<p align="center"><img src="us.png" style="margin-top: 20px; margin-bottom: 20px;"></p>
+<p align="center"><img src="us2.png" style="margin-top: 20px; margin-bottom: 20px;"></p>
