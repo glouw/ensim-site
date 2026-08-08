@@ -10,6 +10,7 @@ title: ENSIM5
 <style>
 body {
     background-color: #101010;
+    color: #FFFFFF;
 }
 .site-header,
 .site-footer {
