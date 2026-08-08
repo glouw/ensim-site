@@ -28,7 +28,7 @@ We are an independent research and development team based in Vancouver, BC,
 on a mission to model realistic, real-time, internal combustion
 engine audio for use in the games industry.
 
-<video controls style="width: 100%; height: auto; margin-top: 30px; margin-bottom: 30px;">
+<video controls style="width: 100%; height: auto; margin-top: 40px; margin-bottom: 40px;">
     <source src="video.mp4" type="video/mp4">
 </video>
 
@@ -38,13 +38,13 @@ piston kinematics, and computational fluid dynamics, in real time. `ENSIM` appro
 C₈H₁₈ 14.7:1 air-fuel combustion process using a hypothetical gas with a molar mass of 0.0023 kg/mol
 and a heat-capacity ratio of 1.5.
 
-<p align="center"><img src="pvtv2.png"></p>
+<p align="center"><img src="pvtv2.png" style="margin-top: 10px; margin-bottom: 10px;"></p>
 
 This gas model produces extremely high combustion temperatures, reaching well into the
 hypothetical 7000 K range to generate intense, harmonically rich pulse trains guided by
 quintic cam-profile polynomials.
 
-<p align="center"><img src="pulse2.png" style="margin-top: 30px; margin-bottom: 30px;"></p>
+<p align="center"><img src="pulse2.png" style="margin-top: 40px; margin-bottom: 40px;"></p>
 
 `ENSIM` on a 2019 business grade laptop `Intel(R) Core(TM) i7-8665U CPU @ 1.90GHz`
 can execute 48000 audio samples of a 36-chamber 4-piston engine and one dimensional CFD pipe
