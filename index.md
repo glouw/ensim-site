@@ -40,12 +40,12 @@ For example, `ENSIM` on a 2019 business grade laptop `Intel(R) Core(TM) i7-8665U
 can execute 48000 audio samples in 0.2 seconds entirely from a single core's L1 cache:
 
 ```
-                 0      context-switches:u               #      0.0    cs_per_second
-                 0      cpu-migrations:u                 #      0.0    migrations_per_second
-         2,376,758      L1-dcache-load-misses:u          #      0.7 %  l1d_miss_rate
-            83,108      branch-misses:u                  #      0.1 %  branch_miss_rate
-     1,627,262,496      instructions:u                   #      2.2    insn_per_cycle
-       362,993,860      dTLB-loads:u                     #      0.0 %  dtlb_miss_rate
+            0  context-switches:u       #  0.0    cs_per_second
+            0  cpu-migrations:u         #  0.0    migrations_per_second
+    2,376,758  L1-dcache-load-misses:u  #  0.7 %  l1d_miss_rate
+       83,108  branch-misses:u          #  0.1 %  branch_miss_rate
+1,627,262,496  instructions:u           #  2.2    insn_per_cycle
+  362,993,860  dTLB-loads:u             #  0.0 %  dtlb_miss_rate
 ```
 
 `ENSIM` approximates the standard C₈H₁₈ 14.7:1 air-fuel combustion process using a hypothetical
