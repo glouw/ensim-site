@@ -38,4 +38,4 @@ extremely high combustion temperatures, reaching well into the hypothetical 7000
 generating an intense, harmonically rich pulse train feeding into a one-dimensional
 computational fluid-dynamics pipe:
 
-![](pulse.png)
+![](pulse2.png)
